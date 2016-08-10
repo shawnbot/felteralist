@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "felt --recipe 18F --src src --export dist",
+    "watch": "felt --watch --recipe 18F --src src --export dist"
+  },
+  "devDependencies": {
+    "felt": "^0.2.2",
+    "felt-recipe-18F": "*"
+  },
+  "dependencies": {
+    "d3-selection": "^1.0.2"
+  }
+}

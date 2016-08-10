@@ -1,0 +1,6 @@
+title: Felt + Federalist
+
+exclude:
+  - README.md
+  - node_modules
+  - src
