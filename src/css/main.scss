@@ -1,0 +1,12 @@
+$green: #092;
+
+#greeting {
+  // to test postcss-cssnext
+  font-variant: small-caps;
+
+  time {
+    color: $green;
+    border-radius: 0.2em;
+    padding: 0.2em;
+  }
+}
